@@ -1,3 +1,6 @@
+
+
+
 # StockTracker 📈
 
 Simple Python script to check every time in a time frame some stock had a daily variation above (or below), some percentage.
